@@ -8,5 +8,3 @@ A ThoughtWorks Arts badge displayed on a [Pimoroni Inky PHAT](https://shop.pimor
 + Clone this repo
 + Run `python logo.py`
 
-# TODO
-+ Display some name or contact info about who is wearing the badge.
